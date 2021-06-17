@@ -5,7 +5,8 @@
 - 📫 Contact me through contact form on my portfolio website: https://portfolio.vanessacode.com/ 
 
 
-
+## I love ramen
+![ramen](https://ramen-tatsuya.com/wp-content/uploads/2017/07/Miso-not.jpg)
 
 <!---
 vanessaperson/vanessaperson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
